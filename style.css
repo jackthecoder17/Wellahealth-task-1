@@ -4,6 +4,10 @@
     scroll-behavior: smooth;
 }
 
+nav {
+    background: #FBFBFB;
+}
+
 .navbar-brand {
     padding-left: 100px;
 }
